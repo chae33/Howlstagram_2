@@ -5,7 +5,14 @@
       <map>
         <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27037037037037037" />
         <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/drawable/ic_outline_local_play_24px.xml" value="0.1" />
-        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/activity_main.xml" value="0.16246215943491424" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/fragment_alarm.xml" value="0.1" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/fragment_alarml.xml" value="0.16246215943491424" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/fragment_detail.xml" value="0.16246215943491424" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/fragment_grid.xml" value="0.16246215943491424" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/layout/fragment_user.xml" value="0.16246215943491424" />
+        <entry key="..\:/Users/82105/Howlstagram_2/app/src/main/res/menu/bottom_navigation_main.xml" value="0.1675925925925926" />
       </map>
     </option>
   </component>
